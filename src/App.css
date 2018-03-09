@@ -1,0 +1,8 @@
+.form-control:focus {
+  border-color: #ec407a !important;
+  box-shadow: 0 0 5px rgba(236,64,122,1)  !important;
+}
+
+.bg-pink {
+  background-color: #ec407a;
+}
