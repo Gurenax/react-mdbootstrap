@@ -6,6 +6,7 @@ import DropdownButton from './components/DropdownButton'
 import ToggleSwitch from './components/ToggleSwitch'
 import ButtonGroup from './components/ButtonGroup'
 import ButtonToolbar  from './components/ButtonToolbar'
+import CustomCheckbox from './components/CustomCheckbox'
 import './App.css'
 
 class App extends Component {
@@ -30,6 +31,9 @@ class App extends Component {
           
           <h3 className="mt-3">Form</h3>
           <Form />
+
+          <h3 className="mt-3">Custom Checkbox</h3>
+          <CustomCheckbox />
 
           <h3 className="mt-3">Card</h3>
           <Card />
