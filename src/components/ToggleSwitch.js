@@ -7,7 +7,7 @@ const ToggleSwitch = () => (
       className="cmn-toggle cmn-toggle-round-flat"
       type="checkbox"
     />
-    <label for="cmn-toggle-4" />
+    <label htmlFor="cmn-toggle-4" />
   </div>
 )
 
