@@ -90,3 +90,14 @@ input.cmn-toggle-round-flat:checked + label:after {
   background-color: #ec407a;
 }
 /* End of ToggleSwitch.js */
+
+
+/* For CustomCheckbox.js */
+.custom-control-label:before{
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before{
+  background-color: #ec407a;
+}
+/* End of CustomCheckbox.js */
