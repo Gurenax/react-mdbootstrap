@@ -24,11 +24,9 @@ const Form = () => (
         placeholder="Password"
       />
     </div>
-    <div className="form-check">
-      <input type="checkbox" className="form-check-input" id="exampleCheck1" />
-      <label className="form-check-label" htmlFor="exampleCheck1">
-        Check me out
-      </label>
+    <div className="form-check custom-control custom-checkbox">
+      <input type="checkbox" className="form-check-input custom-control-input" id="formCustomCheck1"/>
+      <label className="form-check-label custom-control-label" for="formCustomCheck1">Check me out</label>
     </div>
     <button type="submit" className="btn btn-pink">
       Submit
