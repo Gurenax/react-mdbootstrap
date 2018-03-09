@@ -11,21 +11,19 @@ class App extends Component {
     return (
       <div className="App">
         <Nav />
-        <div className="container-fluid mt-3">
+        <div className="container mt-3">
           <h1>Material Bootstrap 4</h1>
           
+          <h3 className="mt-3">Dropdown Button</h3>
           <DropdownButton />
 
-          <div className="mt-3" />
-
+          <h3 className="mt-3">Toggle Switch</h3>
           <ToggleSwitch />
           
-          <div className="mt-3" />
-          
+          <h3 className="mt-3">Form</h3>
           <Form />
 
-          <div className="mt-3" />
-
+          <h3 className="mt-3">Card</h3>
           <Card />
 
         </div>
