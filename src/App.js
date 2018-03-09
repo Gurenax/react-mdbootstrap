@@ -4,6 +4,8 @@ import Form from './components/Form'
 import Card from './components/Card'
 import DropdownButton from './components/DropdownButton'
 import ToggleSwitch from './components/ToggleSwitch'
+import ButtonGroup from './components/ButtonGroup'
+import ButtonToolbar  from './components/ButtonToolbar'
 import './App.css'
 
 class App extends Component {
@@ -16,6 +18,12 @@ class App extends Component {
           
           <h3 className="mt-3">Dropdown Button</h3>
           <DropdownButton />
+
+          <h3 className="mt-3">Button Group</h3>
+          <ButtonGroup />
+
+          <h3 className="mt-3">Button Toolbar</h3>
+          <ButtonToolbar />
 
           <h3 className="mt-3">Toggle Switch</h3>
           <ToggleSwitch />
