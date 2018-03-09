@@ -5,7 +5,7 @@ const Nav = () => (
     <a className="nav-link active text-white border-bottom" href="/">Active</a>
     <a className="nav-link text-white" href="/">Link</a>
     <a className="nav-link text-white" href="/">Link</a>
-    <a className="nav-link disabled text-dark" href="/">Disabled</a>
+    <a className="nav-link disabled" href="/">Disabled</a>
   </nav>
 )
 
