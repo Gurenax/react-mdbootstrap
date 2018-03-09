@@ -5,3 +5,5 @@ Sample Material Design for Bootstrap 4 using React
 * Nav
 * Card
 * Form
+* DropdownButton
+* ToggleSwitch
