@@ -7,6 +7,7 @@ import ToggleSwitch from './components/ToggleSwitch'
 import ButtonGroup from './components/ButtonGroup'
 import ButtonToolbar  from './components/ButtonToolbar'
 import CustomCheckbox from './components/CustomCheckbox'
+import Jumbotron from './components/Jumbotron'
 import './App.css'
 
 class App extends Component {
@@ -16,7 +17,8 @@ class App extends Component {
         <Nav />
         <div className="container mt-3">
           <h1>Material Bootstrap 4</h1>
-          
+          <Jumbotron/>
+
           <h3 className="mt-3">Dropdown Button</h3>
           <DropdownButton />
 
