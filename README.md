@@ -3,6 +3,7 @@ Sample Material Design for Bootstrap 4 using React
 
 ## Components
 * Nav
+* Jumbotron
 * DropdownButton
 * ButtonGroup
 * ButtonToolbar
