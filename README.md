@@ -11,3 +11,4 @@ Sample Material Design for Bootstrap 4 using React
 * Form
 * Custom Checkbox
 * Card
+* Collapse
