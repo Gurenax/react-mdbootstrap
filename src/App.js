@@ -19,7 +19,9 @@ class App extends Component {
       <div className="App">
         <Nav />
         <div className="container mt-5">
-          <h1>Material Bootstrap 4</h1>
+          <h1>Material Bootstrap 4 Components for React</h1>
+          
+          <h3 className="mt-5">Jumbotron</h3>
           <Jumbotron/>
 
           <h3 className="mt-5">Roboto Headings</h3>
@@ -53,7 +55,7 @@ class App extends Component {
 
           <h3 className="mt-5">Card</h3>
           <Card />
-          
+
           <h3 className="mt-5">Card Deck</h3>          
           <CardDeck>
             <Card />
