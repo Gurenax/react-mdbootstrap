@@ -12,6 +12,7 @@ Sample Material Design for Bootstrap 4 using React
 * Custom Checkbox
 * Card
 * Collapse
+* Pagination
 
 
 ## Clean way to import bootstrap, jquery, popper,js and tether in React
