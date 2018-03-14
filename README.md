@@ -11,6 +11,7 @@ Sample Material Design for Bootstrap 4 using React
 * Form
 * Custom Checkbox
 * Card
+* Card Deck
 * Collapse
 * Pagination
 
@@ -54,6 +55,7 @@ import './jquery'
 import './tether'
 import './popper'
 
+import 'bootstrap'
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 ```
 
@@ -63,6 +65,7 @@ import './jquery'
 import './tether'
 import './popper'
 
+import 'bootstrap'
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import '../../node_modules/mdbootstrap/css/mdb.min.css'
 ```
