@@ -10,7 +10,14 @@
 * Add pink as a background colour
 */
 .bg-pink {
-  background-color: #ec407a;
+  background-color: #ec407a !important;
+}
+
+/*
+* Pagination: Page Item Active: Add pink as a background colour
+*/
+.active-pink > .page-link {
+  background-color: #ec407a !important;
 }
 
 /* For ToggleSwitch.js */
