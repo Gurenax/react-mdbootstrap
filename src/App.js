@@ -20,6 +20,8 @@ class App extends Component {
         <Nav />
         <div className="container mt-5">
           <h1>Material Bootstrap 4 Components for React</h1>
+          <h5>by Gurenax</h5>
+          <a className="text-pink" href="https://github.com/Gurenax/react-mdbootstrap"><h5>Fork me on GitHub</h5></a>
           
           <h3 className="mt-5">Jumbotron</h3>
           <Jumbotron/>
