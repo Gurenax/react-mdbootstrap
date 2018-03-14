@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Card = () => (
-  <div className="card" style={{'width': 18+'rem'}}>
+  <div className="card card-size">
     <img className="card-img-top" src="assets/images/sample.jpg" alt="Card caption"/>
     <div className="card-body">
       <h5 className="card-title">Card title</h5>
