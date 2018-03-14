@@ -9,6 +9,7 @@ import ButtonToolbar  from './components/ButtonToolbar'
 import CustomCheckbox from './components/CustomCheckbox'
 import Jumbotron from './components/Jumbotron'
 import Collapse from './components/Collapse'
+import Pagination from './components/Pagination'
 import './App.css'
 
 class App extends Component {
@@ -44,6 +45,8 @@ class App extends Component {
           <h3 className="mt-3">Collapse</h3>
           <Collapse />
 
+          <h3 className="mt-3">Pagination</h3>
+          <Pagination />
         </div>
       </div>
     )
